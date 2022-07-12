@@ -1,0 +1,61 @@
+p {
+  text-align: center;
+}
+
+
+.selections {
+  justify-content: center;
+  display: flex;
+  padding: 20px;
+  margin-top: 40px;
+}
+
+.child-div {
+  width: 40%;
+  float: left;
+  padding: 20px;
+}
+
+button:hover {
+  background-color: silver;
+}
+
+#first {
+  width:20%;
+  position: absolute;
+  left:200px;
+}
+
+.tables {
+  display: flex;
+  margin-top:40px;
+}
+
+.semester-table {
+  width: 30%;
+  text-align: center;
+  float: left;
+  padding: 20px;
+}
+
+#add-button {
+  height: 50px;
+  width: 100px;
+  margin-right: 40px;
+  position: absolute;
+  top: 240px;
+  right:440px
+}
+
+#undo-button {
+  height: 50px;
+  width: 100px;
+  margin-right: 40px;
+  position: absolute;
+  top: 240px;
+  right:300px
+}
+
+#alert-message {
+  text-align: center;
+}

@@ -1,24 +1,25 @@
-import logo from './logo.svg';
-import './App.css';
+import FiveYearDifficultiesPage from "./pages/FiveYearDifficultiesPage";
+import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
+import PlannerPage from "./pages/PlannerPage";
+import "bootstrap/dist/css/bootstrap.min.css";
+import OneYearDifficultiesPage from "./pages/OneYearDifficultiesPage";
+import "./App.css"
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <Router>
+        <Routes>
+          <Route path="/" exact element={<FiveYearDifficultiesPage />}></Route>
+          <Route
+            path="/one-year"
+            exact
+            element={<OneYearDifficultiesPage />}
+          ></Route>
+          <Route path="/planner" element={<PlannerPage />}></Route>
+        </Routes>
+      </Router>
+    </>
   );
 }
 

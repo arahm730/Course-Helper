@@ -1,0 +1,23 @@
+table {
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
+
+thead {
+    width: 20px;
+    
+}
+
+
+tbody {
+  font-size: 22px;
+}
+
+th {
+  font-size: 22px;
+}
+
+tr, td, th{
+    border:3px solid black !important;
+}

@@ -1,0 +1,6434 @@
+[
+  {
+    "course": {
+      "subject": "CS",
+      "id": "161",
+      "name": "Intro to Computer Science I"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2015"
+    },
+    "aggregate": {
+      "count": 1,
+      "sum": 1,
+      "mean": 1.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "161",
+      "name": "Intro to Computer Science I"
+    },
+    "quarter": {
+      "term": "Summer",
+      "year": "2015"
+    },
+    "aggregate": {
+      "count": 4,
+      "sum": 11,
+      "mean": 2.75
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "161",
+      "name": "Intro to Computer Science I"
+    },
+    "quarter": {
+      "term": "Fall",
+      "year": "2015"
+    },
+    "aggregate": {
+      "count": 11,
+      "sum": 31,
+      "mean": 2.8181818181818183
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "161",
+      "name": "Intro to Computer Science I"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2016"
+    },
+    "aggregate": {
+      "count": 5,
+      "sum": 13,
+      "mean": 2.6
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "161",
+      "name": "Intro to Computer Science I"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2016"
+    },
+    "aggregate": {
+      "count": 6,
+      "sum": 14,
+      "mean": 2.3333333333333335
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "161",
+      "name": "Intro to Computer Science I"
+    },
+    "quarter": {
+      "term": "Summer",
+      "year": "2016"
+    },
+    "aggregate": {
+      "count": 3,
+      "sum": 5,
+      "mean": 1.6666666666666667
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "161",
+      "name": "Intro to Computer Science I"
+    },
+    "quarter": {
+      "term": "Fall",
+      "year": "2016"
+    },
+    "aggregate": {
+      "count": 7,
+      "sum": 19,
+      "mean": 2.7142857142857144
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "161",
+      "name": "Intro to Computer Science I"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2017"
+    },
+    "aggregate": {
+      "count": 11,
+      "sum": 31,
+      "mean": 2.8181818181818183
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "161",
+      "name": "Intro to Computer Science I"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2017"
+    },
+    "aggregate": {
+      "count": 4,
+      "sum": 9,
+      "mean": 2.25
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "161",
+      "name": "Intro to Computer Science I"
+    },
+    "quarter": {
+      "term": "Summer",
+      "year": "2017"
+    },
+    "aggregate": {
+      "count": 9,
+      "sum": 21,
+      "mean": 2.3333333333333335
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "161",
+      "name": "Intro to Computer Science I"
+    },
+    "quarter": {
+      "term": "Fall",
+      "year": "2017"
+    },
+    "aggregate": {
+      "count": 3,
+      "sum": 5,
+      "mean": 1.6666666666666667
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "161",
+      "name": "Intro to Computer Science I"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2018"
+    },
+    "aggregate": {
+      "count": 8,
+      "sum": 18,
+      "mean": 2.25
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "161",
+      "name": "Intro to Computer Science I"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2018"
+    },
+    "aggregate": {
+      "count": 4,
+      "sum": 8,
+      "mean": 2.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "161",
+      "name": "Intro to Computer Science I"
+    },
+    "quarter": {
+      "term": "Summer",
+      "year": "2018"
+    },
+    "aggregate": {
+      "count": 6,
+      "sum": 12,
+      "mean": 2.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "161",
+      "name": "Intro to Computer Science I"
+    },
+    "quarter": {
+      "term": "Fall",
+      "year": "2018"
+    },
+    "aggregate": {
+      "count": 7,
+      "sum": 17,
+      "mean": 2.4285714285714284
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "161",
+      "name": "Intro to Computer Science I"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2019"
+    },
+    "aggregate": {
+      "count": 6,
+      "sum": 16,
+      "mean": 2.6666666666666665
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "161",
+      "name": "Intro to Computer Science I"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2019"
+    },
+    "aggregate": {
+      "count": 3,
+      "sum": 8,
+      "mean": 2.6666666666666665
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "161",
+      "name": "Intro to Computer Science I"
+    },
+    "quarter": {
+      "term": "Summer",
+      "year": "2019"
+    },
+    "aggregate": {
+      "count": 4,
+      "sum": 9,
+      "mean": 2.25
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "161",
+      "name": "Intro to Computer Science I"
+    },
+    "quarter": {
+      "term": "Fall",
+      "year": "2019"
+    },
+    "aggregate": {
+      "count": 12,
+      "sum": 24,
+      "mean": 2.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "161",
+      "name": "Intro to Computer Science I"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2020"
+    },
+    "aggregate": {
+      "count": 11,
+      "sum": 17,
+      "mean": 1.5454545454545454
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "161",
+      "name": "Intro to Computer Science I"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2020"
+    },
+    "aggregate": {
+      "count": 6,
+      "sum": 11,
+      "mean": 1.8333333333333333
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "161",
+      "name": "Intro to Computer Science I"
+    },
+    "quarter": {
+      "term": "Summer",
+      "year": "2020"
+    },
+    "aggregate": {
+      "count": 5,
+      "sum": 7,
+      "mean": 1.4
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "161",
+      "name": "Intro to Computer Science I"
+    },
+    "quarter": {
+      "term": "Fall",
+      "year": "2020"
+    },
+    "aggregate": {
+      "count": 5,
+      "sum": 9,
+      "mean": 1.8
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "161",
+      "name": "Intro to Computer Science I"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2021"
+    },
+    "aggregate": {
+      "count": 4,
+      "sum": 4,
+      "mean": 1.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "161",
+      "name": "Intro to Computer Science I"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2021"
+    },
+    "aggregate": {
+      "count": 2,
+      "sum": 3,
+      "mean": 1.5
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "161",
+      "name": "Intro to Computer Science I"
+    },
+    "quarter": {
+      "term": "Summer",
+      "year": "2021"
+    },
+    "aggregate": {
+      "count": 4,
+      "sum": 8,
+      "mean": 2.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "161",
+      "name": "Intro to Computer Science I"
+    },
+    "quarter": {
+      "term": "Fall",
+      "year": "2021"
+    },
+    "aggregate": {
+      "count": 5,
+      "sum": 5,
+      "mean": 1.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "161",
+      "name": "Intro to Computer Science I"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2022"
+    },
+    "aggregate": {
+      "count": 19,
+      "sum": 29,
+      "mean": 1.5263157894736843
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "161",
+      "name": "Intro to Computer Science I"
+    },
+    "quarter": {
+      "term": "Fall",
+      "year": "2022"
+    },
+    "aggregate": {
+      "count": 1,
+      "sum": 2,
+      "mean": 2.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "162",
+      "name": "Intro to Computer Science II"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2015"
+    },
+    "aggregate": {
+      "count": 1,
+      "sum": 1,
+      "mean": 1.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "162",
+      "name": "Intro to Computer Science II"
+    },
+    "quarter": {
+      "term": "Fall",
+      "year": "2015"
+    },
+    "aggregate": {
+      "count": 6,
+      "sum": 21,
+      "mean": 3.5
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "162",
+      "name": "Intro to Computer Science II"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2016"
+    },
+    "aggregate": {
+      "count": 8,
+      "sum": 25,
+      "mean": 3.125
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "162",
+      "name": "Intro to Computer Science II"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2016"
+    },
+    "aggregate": {
+      "count": 3,
+      "sum": 8,
+      "mean": 2.6666666666666665
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "162",
+      "name": "Intro to Computer Science II"
+    },
+    "quarter": {
+      "term": "Summer",
+      "year": "2016"
+    },
+    "aggregate": {
+      "count": 5,
+      "sum": 18,
+      "mean": 3.6
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "162",
+      "name": "Intro to Computer Science II"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2017"
+    },
+    "aggregate": {
+      "count": 12,
+      "sum": 45,
+      "mean": 3.75
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "162",
+      "name": "Intro to Computer Science II"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2017"
+    },
+    "aggregate": {
+      "count": 8,
+      "sum": 28,
+      "mean": 3.5
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "162",
+      "name": "Intro to Computer Science II"
+    },
+    "quarter": {
+      "term": "Summer",
+      "year": "2017"
+    },
+    "aggregate": {
+      "count": 6,
+      "sum": 19,
+      "mean": 3.1666666666666665
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "162",
+      "name": "Intro to Computer Science II"
+    },
+    "quarter": {
+      "term": "Fall",
+      "year": "2017"
+    },
+    "aggregate": {
+      "count": 4,
+      "sum": 12,
+      "mean": 3.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "162",
+      "name": "Intro to Computer Science II"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2018"
+    },
+    "aggregate": {
+      "count": 11,
+      "sum": 38,
+      "mean": 3.4545454545454546
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "162",
+      "name": "Intro to Computer Science II"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2018"
+    },
+    "aggregate": {
+      "count": 2,
+      "sum": 6,
+      "mean": 3.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "162",
+      "name": "Intro to Computer Science II"
+    },
+    "quarter": {
+      "term": "Summer",
+      "year": "2018"
+    },
+    "aggregate": {
+      "count": 2,
+      "sum": 4,
+      "mean": 2.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "162",
+      "name": "Intro to Computer Science II"
+    },
+    "quarter": {
+      "term": "Fall",
+      "year": "2018"
+    },
+    "aggregate": {
+      "count": 8,
+      "sum": 19,
+      "mean": 2.375
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "162",
+      "name": "Intro to Computer Science II"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2019"
+    },
+    "aggregate": {
+      "count": 6,
+      "sum": 17,
+      "mean": 2.8333333333333335
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "162",
+      "name": "Intro to Computer Science II"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2019"
+    },
+    "aggregate": {
+      "count": 5,
+      "sum": 17,
+      "mean": 3.4
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "162",
+      "name": "Intro to Computer Science II"
+    },
+    "quarter": {
+      "term": "Fall",
+      "year": "2019"
+    },
+    "aggregate": {
+      "count": 1,
+      "sum": 4,
+      "mean": 4.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "162",
+      "name": "Intro to Computer Science II"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2020"
+    },
+    "aggregate": {
+      "count": 5,
+      "sum": 13,
+      "mean": 2.6
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "162",
+      "name": "Intro to Computer Science II"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2020"
+    },
+    "aggregate": {
+      "count": 5,
+      "sum": 16,
+      "mean": 3.2
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "162",
+      "name": "Intro to Computer Science II"
+    },
+    "quarter": {
+      "term": "Summer",
+      "year": "2020"
+    },
+    "aggregate": {
+      "count": 1,
+      "sum": 2,
+      "mean": 2.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "162",
+      "name": "Intro to Computer Science II"
+    },
+    "quarter": {
+      "term": "Fall",
+      "year": "2020"
+    },
+    "aggregate": {
+      "count": 6,
+      "sum": 11,
+      "mean": 1.8333333333333333
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "162",
+      "name": "Intro to Computer Science II"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2021"
+    },
+    "aggregate": {
+      "count": 2,
+      "sum": 4,
+      "mean": 2.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "162",
+      "name": "Intro to Computer Science II"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2021"
+    },
+    "aggregate": {
+      "count": 2,
+      "sum": 4,
+      "mean": 2.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "162",
+      "name": "Intro to Computer Science II"
+    },
+    "quarter": {
+      "term": "Summer",
+      "year": "2021"
+    },
+    "aggregate": {
+      "count": 1,
+      "sum": 2,
+      "mean": 2.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "162",
+      "name": "Intro to Computer Science II"
+    },
+    "quarter": {
+      "term": "Fall",
+      "year": "2021"
+    },
+    "aggregate": {
+      "count": 5,
+      "sum": 12,
+      "mean": 2.4
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "162",
+      "name": "Intro to Computer Science II"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2022"
+    },
+    "aggregate": {
+      "count": 13,
+      "sum": 28,
+      "mean": 2.1538461538461537
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "162",
+      "name": "Intro to Computer Science II"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2022"
+    },
+    "aggregate": {
+      "count": 2,
+      "sum": 4,
+      "mean": 2.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "165",
+      "name": "Intro to Computer Science (Accelerated)"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2015"
+    },
+    "aggregate": {
+      "count": 1,
+      "sum": 4,
+      "mean": 4.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "165",
+      "name": "Intro to Computer Science (Accelerated)"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2016"
+    },
+    "aggregate": {
+      "count": 1,
+      "sum": 2,
+      "mean": 2.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "165",
+      "name": "Intro to Computer Science (Accelerated)"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2016"
+    },
+    "aggregate": {
+      "count": 3,
+      "sum": 9,
+      "mean": 3.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "165",
+      "name": "Intro to Computer Science (Accelerated)"
+    },
+    "quarter": {
+      "term": "Fall",
+      "year": "2016"
+    },
+    "aggregate": {
+      "count": 3,
+      "sum": 6,
+      "mean": 2.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "165",
+      "name": "Intro to Computer Science (Accelerated)"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2017"
+    },
+    "aggregate": {
+      "count": 8,
+      "sum": 19,
+      "mean": 2.375
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "165",
+      "name": "Intro to Computer Science (Accelerated)"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2017"
+    },
+    "aggregate": {
+      "count": 2,
+      "sum": 5,
+      "mean": 2.5
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "165",
+      "name": "Intro to Computer Science (Accelerated)"
+    },
+    "quarter": {
+      "term": "Fall",
+      "year": "2017"
+    },
+    "aggregate": {
+      "count": 3,
+      "sum": 9,
+      "mean": 3.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "165",
+      "name": "Intro to Computer Science (Accelerated)"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2018"
+    },
+    "aggregate": {
+      "count": 2,
+      "sum": 4,
+      "mean": 2.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "165",
+      "name": "Intro to Computer Science (Accelerated)"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2018"
+    },
+    "aggregate": {
+      "count": 3,
+      "sum": 7,
+      "mean": 2.3333333333333335
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "165",
+      "name": "Intro to Computer Science (Accelerated)"
+    },
+    "quarter": {
+      "term": "Fall",
+      "year": "2018"
+    },
+    "aggregate": {
+      "count": 1,
+      "sum": 4,
+      "mean": 4.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "165",
+      "name": "Intro to Computer Science (Accelerated)"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2019"
+    },
+    "aggregate": {
+      "count": 2,
+      "sum": 5,
+      "mean": 2.5
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "165",
+      "name": "Intro to Computer Science (Accelerated)"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2019"
+    },
+    "aggregate": {
+      "count": 1,
+      "sum": 3,
+      "mean": 3.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "199",
+      "name": "Companion Course"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2019"
+    },
+    "aggregate": {
+      "count": 1,
+      "sum": 2,
+      "mean": 2.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "225",
+      "name": "Discrete Structures in Computer Science"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2015"
+    },
+    "aggregate": {
+      "count": 2,
+      "sum": 6,
+      "mean": 3.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "225",
+      "name": "Discrete Structures in Computer Science"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2015"
+    },
+    "aggregate": {
+      "count": 2,
+      "sum": 4,
+      "mean": 2.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "225",
+      "name": "Discrete Structures in Computer Science"
+    },
+    "quarter": {
+      "term": "Summer",
+      "year": "2015"
+    },
+    "aggregate": {
+      "count": 1,
+      "sum": 3,
+      "mean": 3.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "225",
+      "name": "Discrete Structures in Computer Science"
+    },
+    "quarter": {
+      "term": "Fall",
+      "year": "2015"
+    },
+    "aggregate": {
+      "count": 12,
+      "sum": 34,
+      "mean": 2.8333333333333335
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "225",
+      "name": "Discrete Structures in Computer Science"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2016"
+    },
+    "aggregate": {
+      "count": 9,
+      "sum": 24,
+      "mean": 2.6666666666666665
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "225",
+      "name": "Discrete Structures in Computer Science"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2016"
+    },
+    "aggregate": {
+      "count": 2,
+      "sum": 6,
+      "mean": 3.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "225",
+      "name": "Discrete Structures in Computer Science"
+    },
+    "quarter": {
+      "term": "Summer",
+      "year": "2016"
+    },
+    "aggregate": {
+      "count": 2,
+      "sum": 5,
+      "mean": 2.5
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "225",
+      "name": "Discrete Structures in Computer Science"
+    },
+    "quarter": {
+      "term": "Fall",
+      "year": "2016"
+    },
+    "aggregate": {
+      "count": 4,
+      "sum": 10,
+      "mean": 2.5
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "225",
+      "name": "Discrete Structures in Computer Science"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2017"
+    },
+    "aggregate": {
+      "count": 16,
+      "sum": 41,
+      "mean": 2.5625
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "225",
+      "name": "Discrete Structures in Computer Science"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2017"
+    },
+    "aggregate": {
+      "count": 10,
+      "sum": 24,
+      "mean": 2.4
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "225",
+      "name": "Discrete Structures in Computer Science"
+    },
+    "quarter": {
+      "term": "Summer",
+      "year": "2017"
+    },
+    "aggregate": {
+      "count": 11,
+      "sum": 24,
+      "mean": 2.1818181818181817
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "225",
+      "name": "Discrete Structures in Computer Science"
+    },
+    "quarter": {
+      "term": "Fall",
+      "year": "2017"
+    },
+    "aggregate": {
+      "count": 3,
+      "sum": 7,
+      "mean": 2.3333333333333335
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "225",
+      "name": "Discrete Structures in Computer Science"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2018"
+    },
+    "aggregate": {
+      "count": 11,
+      "sum": 24,
+      "mean": 2.1818181818181817
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "225",
+      "name": "Discrete Structures in Computer Science"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2018"
+    },
+    "aggregate": {
+      "count": 3,
+      "sum": 10,
+      "mean": 3.3333333333333335
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "225",
+      "name": "Discrete Structures in Computer Science"
+    },
+    "quarter": {
+      "term": "Summer",
+      "year": "2018"
+    },
+    "aggregate": {
+      "count": 7,
+      "sum": 18,
+      "mean": 2.5714285714285716
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "225",
+      "name": "Discrete Structures in Computer Science"
+    },
+    "quarter": {
+      "term": "Fall",
+      "year": "2018"
+    },
+    "aggregate": {
+      "count": 5,
+      "sum": 16,
+      "mean": 3.2
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "225",
+      "name": "Discrete Structures in Computer Science"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2019"
+    },
+    "aggregate": {
+      "count": 6,
+      "sum": 17,
+      "mean": 2.8333333333333335
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "225",
+      "name": "Discrete Structures in Computer Science"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2019"
+    },
+    "aggregate": {
+      "count": 5,
+      "sum": 14,
+      "mean": 2.8
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "225",
+      "name": "Discrete Structures in Computer Science"
+    },
+    "quarter": {
+      "term": "Summer",
+      "year": "2019"
+    },
+    "aggregate": {
+      "count": 4,
+      "sum": 15,
+      "mean": 3.75
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "225",
+      "name": "Discrete Structures in Computer Science"
+    },
+    "quarter": {
+      "term": "Fall",
+      "year": "2019"
+    },
+    "aggregate": {
+      "count": 10,
+      "sum": 35,
+      "mean": 3.5
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "225",
+      "name": "Discrete Structures in Computer Science"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2020"
+    },
+    "aggregate": {
+      "count": 10,
+      "sum": 33,
+      "mean": 3.3
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "225",
+      "name": "Discrete Structures in Computer Science"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2020"
+    },
+    "aggregate": {
+      "count": 7,
+      "sum": 28,
+      "mean": 4.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "225",
+      "name": "Discrete Structures in Computer Science"
+    },
+    "quarter": {
+      "term": "Summer",
+      "year": "2020"
+    },
+    "aggregate": {
+      "count": 5,
+      "sum": 19,
+      "mean": 3.8
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "225",
+      "name": "Discrete Structures in Computer Science"
+    },
+    "quarter": {
+      "term": "Fall",
+      "year": "2020"
+    },
+    "aggregate": {
+      "count": 6,
+      "sum": 19,
+      "mean": 3.1666666666666665
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "225",
+      "name": "Discrete Structures in Computer Science"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2021"
+    },
+    "aggregate": {
+      "count": 4,
+      "sum": 13,
+      "mean": 3.25
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "225",
+      "name": "Discrete Structures in Computer Science"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2021"
+    },
+    "aggregate": {
+      "count": 4,
+      "sum": 17,
+      "mean": 4.25
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "225",
+      "name": "Discrete Structures in Computer Science"
+    },
+    "quarter": {
+      "term": "Summer",
+      "year": "2021"
+    },
+    "aggregate": {
+      "count": 1,
+      "sum": 4,
+      "mean": 4.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "225",
+      "name": "Discrete Structures in Computer Science"
+    },
+    "quarter": {
+      "term": "Fall",
+      "year": "2021"
+    },
+    "aggregate": {
+      "count": 7,
+      "sum": 21,
+      "mean": 3.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "225",
+      "name": "Discrete Structures in Computer Science"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2022"
+    },
+    "aggregate": {
+      "count": 15,
+      "sum": 53,
+      "mean": 3.533333333333333
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "225",
+      "name": "Discrete Structures in Computer Science"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2022"
+    },
+    "aggregate": {
+      "count": 1,
+      "sum": 3,
+      "mean": 3.0
+    }
+  },
+  {
+    "course": {
+      "subject": "MTH",
+      "id": "231",
+      "name": "Elements of Discrete Mathematics"
+    },
+    "quarter": {
+      "term": "Summer",
+      "year": "2021"
+    },
+    "aggregate": {
+      "count": 1,
+      "sum": 3,
+      "mean": 3.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "261",
+      "name": "Data Structures"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2015"
+    },
+    "aggregate": {
+      "count": 3,
+      "sum": 9,
+      "mean": 3.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "261",
+      "name": "Data Structures"
+    },
+    "quarter": {
+      "term": "Summer",
+      "year": "2015"
+    },
+    "aggregate": {
+      "count": 7,
+      "sum": 19,
+      "mean": 2.7142857142857144
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "261",
+      "name": "Data Structures"
+    },
+    "quarter": {
+      "term": "Fall",
+      "year": "2015"
+    },
+    "aggregate": {
+      "count": 3,
+      "sum": 10,
+      "mean": 3.3333333333333335
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "261",
+      "name": "Data Structures"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2016"
+    },
+    "aggregate": {
+      "count": 4,
+      "sum": 11,
+      "mean": 2.75
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "261",
+      "name": "Data Structures"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2016"
+    },
+    "aggregate": {
+      "count": 6,
+      "sum": 18,
+      "mean": 3.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "261",
+      "name": "Data Structures"
+    },
+    "quarter": {
+      "term": "Summer",
+      "year": "2016"
+    },
+    "aggregate": {
+      "count": 4,
+      "sum": 12,
+      "mean": 3.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "261",
+      "name": "Data Structures"
+    },
+    "quarter": {
+      "term": "Fall",
+      "year": "2016"
+    },
+    "aggregate": {
+      "count": 2,
+      "sum": 6,
+      "mean": 3.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "261",
+      "name": "Data Structures"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2017"
+    },
+    "aggregate": {
+      "count": 9,
+      "sum": 23,
+      "mean": 2.5555555555555554
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "261",
+      "name": "Data Structures"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2017"
+    },
+    "aggregate": {
+      "count": 7,
+      "sum": 23,
+      "mean": 3.2857142857142856
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "261",
+      "name": "Data Structures"
+    },
+    "quarter": {
+      "term": "Summer",
+      "year": "2017"
+    },
+    "aggregate": {
+      "count": 11,
+      "sum": 28,
+      "mean": 2.5454545454545454
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "261",
+      "name": "Data Structures"
+    },
+    "quarter": {
+      "term": "Fall",
+      "year": "2017"
+    },
+    "aggregate": {
+      "count": 10,
+      "sum": 30,
+      "mean": 3.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "261",
+      "name": "Data Structures"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2018"
+    },
+    "aggregate": {
+      "count": 6,
+      "sum": 17,
+      "mean": 2.8333333333333335
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "261",
+      "name": "Data Structures"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2018"
+    },
+    "aggregate": {
+      "count": 1,
+      "sum": 3,
+      "mean": 3.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "261",
+      "name": "Data Structures"
+    },
+    "quarter": {
+      "term": "Summer",
+      "year": "2018"
+    },
+    "aggregate": {
+      "count": 2,
+      "sum": 5,
+      "mean": 2.5
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "261",
+      "name": "Data Structures"
+    },
+    "quarter": {
+      "term": "Fall",
+      "year": "2018"
+    },
+    "aggregate": {
+      "count": 2,
+      "sum": 6,
+      "mean": 3.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "261",
+      "name": "Data Structures"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2019"
+    },
+    "aggregate": {
+      "count": 3,
+      "sum": 9,
+      "mean": 3.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "261",
+      "name": "Data Structures"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2019"
+    },
+    "aggregate": {
+      "count": 2,
+      "sum": 7,
+      "mean": 3.5
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "261",
+      "name": "Data Structures"
+    },
+    "quarter": {
+      "term": "Summer",
+      "year": "2019"
+    },
+    "aggregate": {
+      "count": 6,
+      "sum": 17,
+      "mean": 2.8333333333333335
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "261",
+      "name": "Data Structures"
+    },
+    "quarter": {
+      "term": "Fall",
+      "year": "2019"
+    },
+    "aggregate": {
+      "count": 2,
+      "sum": 6,
+      "mean": 3.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "261",
+      "name": "Data Structures"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2020"
+    },
+    "aggregate": {
+      "count": 6,
+      "sum": 10,
+      "mean": 1.6666666666666667
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "261",
+      "name": "Data Structures"
+    },
+    "quarter": {
+      "term": "Summer",
+      "year": "2020"
+    },
+    "aggregate": {
+      "count": 7,
+      "sum": 17,
+      "mean": 2.4285714285714284
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "261",
+      "name": "Data Structures"
+    },
+    "quarter": {
+      "term": "Fall",
+      "year": "2020"
+    },
+    "aggregate": {
+      "count": 2,
+      "sum": 6,
+      "mean": 3.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "261",
+      "name": "Data Structures"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2021"
+    },
+    "aggregate": {
+      "count": 4,
+      "sum": 12,
+      "mean": 3.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "261",
+      "name": "Data Structures"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2021"
+    },
+    "aggregate": {
+      "count": 1,
+      "sum": 5,
+      "mean": 5.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "261",
+      "name": "Data Structures"
+    },
+    "quarter": {
+      "term": "Summer",
+      "year": "2021"
+    },
+    "aggregate": {
+      "count": 2,
+      "sum": 6,
+      "mean": 3.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "261",
+      "name": "Data Structures"
+    },
+    "quarter": {
+      "term": "Fall",
+      "year": "2021"
+    },
+    "aggregate": {
+      "count": 3,
+      "sum": 8,
+      "mean": 2.6666666666666665
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "261",
+      "name": "Data Structures"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2022"
+    },
+    "aggregate": {
+      "count": 15,
+      "sum": 49,
+      "mean": 3.2666666666666666
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "261",
+      "name": "Data Structures"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2022"
+    },
+    "aggregate": {
+      "count": 7,
+      "sum": 21,
+      "mean": 3.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "271",
+      "name": "Computer Architecture & Assembly Language"
+    },
+    "quarter": {
+      "term": "Summer",
+      "year": "2015"
+    },
+    "aggregate": {
+      "count": 9,
+      "sum": 35,
+      "mean": 3.888888888888889
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "271",
+      "name": "Computer Architecture & Assembly Language"
+    },
+    "quarter": {
+      "term": "Fall",
+      "year": "2015"
+    },
+    "aggregate": {
+      "count": 2,
+      "sum": 7,
+      "mean": 3.5
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "271",
+      "name": "Computer Architecture & Assembly Language"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2016"
+    },
+    "aggregate": {
+      "count": 13,
+      "sum": 44,
+      "mean": 3.3846153846153846
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "271",
+      "name": "Computer Architecture & Assembly Language"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2016"
+    },
+    "aggregate": {
+      "count": 9,
+      "sum": 34,
+      "mean": 3.7777777777777777
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "271",
+      "name": "Computer Architecture & Assembly Language"
+    },
+    "quarter": {
+      "term": "Summer",
+      "year": "2016"
+    },
+    "aggregate": {
+      "count": 4,
+      "sum": 15,
+      "mean": 3.75
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "271",
+      "name": "Computer Architecture & Assembly Language"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2017"
+    },
+    "aggregate": {
+      "count": 13,
+      "sum": 45,
+      "mean": 3.4615384615384617
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "271",
+      "name": "Computer Architecture & Assembly Language"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2017"
+    },
+    "aggregate": {
+      "count": 7,
+      "sum": 20,
+      "mean": 2.857142857142857
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "271",
+      "name": "Computer Architecture & Assembly Language"
+    },
+    "quarter": {
+      "term": "Summer",
+      "year": "2017"
+    },
+    "aggregate": {
+      "count": 6,
+      "sum": 17,
+      "mean": 2.8333333333333335
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "271",
+      "name": "Computer Architecture & Assembly Language"
+    },
+    "quarter": {
+      "term": "Fall",
+      "year": "2017"
+    },
+    "aggregate": {
+      "count": 5,
+      "sum": 17,
+      "mean": 3.4
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "271",
+      "name": "Computer Architecture & Assembly Language"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2018"
+    },
+    "aggregate": {
+      "count": 11,
+      "sum": 36,
+      "mean": 3.272727272727273
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "271",
+      "name": "Computer Architecture & Assembly Language"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2018"
+    },
+    "aggregate": {
+      "count": 3,
+      "sum": 10,
+      "mean": 3.3333333333333335
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "271",
+      "name": "Computer Architecture & Assembly Language"
+    },
+    "quarter": {
+      "term": "Summer",
+      "year": "2018"
+    },
+    "aggregate": {
+      "count": 1,
+      "sum": 2,
+      "mean": 2.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "271",
+      "name": "Computer Architecture & Assembly Language"
+    },
+    "quarter": {
+      "term": "Fall",
+      "year": "2018"
+    },
+    "aggregate": {
+      "count": 6,
+      "sum": 19,
+      "mean": 3.1666666666666665
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "271",
+      "name": "Computer Architecture & Assembly Language"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2019"
+    },
+    "aggregate": {
+      "count": 7,
+      "sum": 25,
+      "mean": 3.5714285714285716
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "271",
+      "name": "Computer Architecture & Assembly Language"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2019"
+    },
+    "aggregate": {
+      "count": 5,
+      "sum": 13,
+      "mean": 2.6
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "271",
+      "name": "Computer Architecture & Assembly Language"
+    },
+    "quarter": {
+      "term": "Summer",
+      "year": "2019"
+    },
+    "aggregate": {
+      "count": 3,
+      "sum": 9,
+      "mean": 3.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "271",
+      "name": "Computer Architecture & Assembly Language"
+    },
+    "quarter": {
+      "term": "Fall",
+      "year": "2019"
+    },
+    "aggregate": {
+      "count": 4,
+      "sum": 13,
+      "mean": 3.25
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "271",
+      "name": "Computer Architecture & Assembly Language"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2020"
+    },
+    "aggregate": {
+      "count": 10,
+      "sum": 29,
+      "mean": 2.9
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "271",
+      "name": "Computer Architecture & Assembly Language"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2020"
+    },
+    "aggregate": {
+      "count": 7,
+      "sum": 25,
+      "mean": 3.5714285714285716
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "271",
+      "name": "Computer Architecture & Assembly Language"
+    },
+    "quarter": {
+      "term": "Summer",
+      "year": "2020"
+    },
+    "aggregate": {
+      "count": 4,
+      "sum": 12,
+      "mean": 3.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "271",
+      "name": "Computer Architecture & Assembly Language"
+    },
+    "quarter": {
+      "term": "Fall",
+      "year": "2020"
+    },
+    "aggregate": {
+      "count": 4,
+      "sum": 14,
+      "mean": 3.5
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "271",
+      "name": "Computer Architecture & Assembly Language"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2021"
+    },
+    "aggregate": {
+      "count": 5,
+      "sum": 18,
+      "mean": 3.6
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "271",
+      "name": "Computer Architecture & Assembly Language"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2021"
+    },
+    "aggregate": {
+      "count": 1,
+      "sum": 4,
+      "mean": 4.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "271",
+      "name": "Computer Architecture & Assembly Language"
+    },
+    "quarter": {
+      "term": "Summer",
+      "year": "2021"
+    },
+    "aggregate": {
+      "count": 1,
+      "sum": 1,
+      "mean": 1.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "271",
+      "name": "Computer Architecture & Assembly Language"
+    },
+    "quarter": {
+      "term": "Fall",
+      "year": "2021"
+    },
+    "aggregate": {
+      "count": 7,
+      "sum": 25,
+      "mean": 3.5714285714285716
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "271",
+      "name": "Computer Architecture & Assembly Language"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2022"
+    },
+    "aggregate": {
+      "count": 20,
+      "sum": 73,
+      "mean": 3.65
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "271",
+      "name": "Computer Architecture & Assembly Language"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2022"
+    },
+    "aggregate": {
+      "count": 2,
+      "sum": 8,
+      "mean": 4.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "290",
+      "name": "Web Development"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2015"
+    },
+    "aggregate": {
+      "count": 1,
+      "sum": 2,
+      "mean": 2.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "290",
+      "name": "Web Development"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2015"
+    },
+    "aggregate": {
+      "count": 1,
+      "sum": 5,
+      "mean": 5.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "290",
+      "name": "Web Development"
+    },
+    "quarter": {
+      "term": "Fall",
+      "year": "2015"
+    },
+    "aggregate": {
+      "count": 4,
+      "sum": 14,
+      "mean": 3.5
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "290",
+      "name": "Web Development"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2016"
+    },
+    "aggregate": {
+      "count": 4,
+      "sum": 13,
+      "mean": 3.25
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "290",
+      "name": "Web Development"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2016"
+    },
+    "aggregate": {
+      "count": 4,
+      "sum": 12,
+      "mean": 3.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "290",
+      "name": "Web Development"
+    },
+    "quarter": {
+      "term": "Summer",
+      "year": "2016"
+    },
+    "aggregate": {
+      "count": 5,
+      "sum": 17,
+      "mean": 3.4
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "290",
+      "name": "Web Development"
+    },
+    "quarter": {
+      "term": "Fall",
+      "year": "2016"
+    },
+    "aggregate": {
+      "count": 1,
+      "sum": 4,
+      "mean": 4.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "290",
+      "name": "Web Development"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2017"
+    },
+    "aggregate": {
+      "count": 6,
+      "sum": 14,
+      "mean": 2.3333333333333335
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "290",
+      "name": "Web Development"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2017"
+    },
+    "aggregate": {
+      "count": 9,
+      "sum": 27,
+      "mean": 3.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "290",
+      "name": "Web Development"
+    },
+    "quarter": {
+      "term": "Summer",
+      "year": "2017"
+    },
+    "aggregate": {
+      "count": 6,
+      "sum": 11,
+      "mean": 1.8333333333333333
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "290",
+      "name": "Web Development"
+    },
+    "quarter": {
+      "term": "Fall",
+      "year": "2017"
+    },
+    "aggregate": {
+      "count": 7,
+      "sum": 17,
+      "mean": 2.4285714285714284
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "290",
+      "name": "Web Development"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2018"
+    },
+    "aggregate": {
+      "count": 8,
+      "sum": 19,
+      "mean": 2.375
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "290",
+      "name": "Web Development"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2018"
+    },
+    "aggregate": {
+      "count": 2,
+      "sum": 5,
+      "mean": 2.5
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "290",
+      "name": "Web Development"
+    },
+    "quarter": {
+      "term": "Summer",
+      "year": "2018"
+    },
+    "aggregate": {
+      "count": 4,
+      "sum": 13,
+      "mean": 3.25
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "290",
+      "name": "Web Development"
+    },
+    "quarter": {
+      "term": "Fall",
+      "year": "2018"
+    },
+    "aggregate": {
+      "count": 3,
+      "sum": 6,
+      "mean": 2.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "290",
+      "name": "Web Development"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2019"
+    },
+    "aggregate": {
+      "count": 3,
+      "sum": 6,
+      "mean": 2.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "290",
+      "name": "Web Development"
+    },
+    "quarter": {
+      "term": "Summer",
+      "year": "2019"
+    },
+    "aggregate": {
+      "count": 3,
+      "sum": 7,
+      "mean": 2.3333333333333335
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "290",
+      "name": "Web Development"
+    },
+    "quarter": {
+      "term": "Fall",
+      "year": "2019"
+    },
+    "aggregate": {
+      "count": 3,
+      "sum": 6,
+      "mean": 2.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "290",
+      "name": "Web Development"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2020"
+    },
+    "aggregate": {
+      "count": 1,
+      "sum": 1,
+      "mean": 1.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "290",
+      "name": "Web Development"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2020"
+    },
+    "aggregate": {
+      "count": 4,
+      "sum": 13,
+      "mean": 3.25
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "290",
+      "name": "Web Development"
+    },
+    "quarter": {
+      "term": "Summer",
+      "year": "2020"
+    },
+    "aggregate": {
+      "count": 6,
+      "sum": 15,
+      "mean": 2.5
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "290",
+      "name": "Web Development"
+    },
+    "quarter": {
+      "term": "Fall",
+      "year": "2020"
+    },
+    "aggregate": {
+      "count": 5,
+      "sum": 16,
+      "mean": 3.2
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "290",
+      "name": "Web Development"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2021"
+    },
+    "aggregate": {
+      "count": 4,
+      "sum": 9,
+      "mean": 2.25
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "290",
+      "name": "Web Development"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2021"
+    },
+    "aggregate": {
+      "count": 2,
+      "sum": 5,
+      "mean": 2.5
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "290",
+      "name": "Web Development"
+    },
+    "quarter": {
+      "term": "Summer",
+      "year": "2021"
+    },
+    "aggregate": {
+      "count": 2,
+      "sum": 4,
+      "mean": 2.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "290",
+      "name": "Web Development"
+    },
+    "quarter": {
+      "term": "Fall",
+      "year": "2021"
+    },
+    "aggregate": {
+      "count": 6,
+      "sum": 14,
+      "mean": 2.3333333333333335
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "290",
+      "name": "Web Development"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2022"
+    },
+    "aggregate": {
+      "count": 15,
+      "sum": 41,
+      "mean": 2.7333333333333334
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "290",
+      "name": "Web Development"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2022"
+    },
+    "aggregate": {
+      "count": 6,
+      "sum": 15,
+      "mean": 2.5
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "325",
+      "name": "Analysis of Algorithms"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2015"
+    },
+    "aggregate": {
+      "count": 1,
+      "sum": 4,
+      "mean": 4.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "325",
+      "name": "Analysis of Algorithms"
+    },
+    "quarter": {
+      "term": "Fall",
+      "year": "2015"
+    },
+    "aggregate": {
+      "count": 3,
+      "sum": 15,
+      "mean": 5.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "325",
+      "name": "Analysis of Algorithms"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2016"
+    },
+    "aggregate": {
+      "count": 1,
+      "sum": 5,
+      "mean": 5.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "325",
+      "name": "Analysis of Algorithms"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2016"
+    },
+    "aggregate": {
+      "count": 8,
+      "sum": 32,
+      "mean": 4.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "325",
+      "name": "Analysis of Algorithms"
+    },
+    "quarter": {
+      "term": "Summer",
+      "year": "2016"
+    },
+    "aggregate": {
+      "count": 6,
+      "sum": 22,
+      "mean": 3.6666666666666665
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "325",
+      "name": "Analysis of Algorithms"
+    },
+    "quarter": {
+      "term": "Fall",
+      "year": "2016"
+    },
+    "aggregate": {
+      "count": 4,
+      "sum": 15,
+      "mean": 3.75
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "325",
+      "name": "Analysis of Algorithms"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2017"
+    },
+    "aggregate": {
+      "count": 4,
+      "sum": 16,
+      "mean": 4.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "325",
+      "name": "Analysis of Algorithms"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2017"
+    },
+    "aggregate": {
+      "count": 6,
+      "sum": 23,
+      "mean": 3.8333333333333335
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "325",
+      "name": "Analysis of Algorithms"
+    },
+    "quarter": {
+      "term": "Summer",
+      "year": "2017"
+    },
+    "aggregate": {
+      "count": 2,
+      "sum": 6,
+      "mean": 3.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "325",
+      "name": "Analysis of Algorithms"
+    },
+    "quarter": {
+      "term": "Fall",
+      "year": "2017"
+    },
+    "aggregate": {
+      "count": 3,
+      "sum": 13,
+      "mean": 4.333333333333333
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "325",
+      "name": "Analysis of Algorithms"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2018"
+    },
+    "aggregate": {
+      "count": 15,
+      "sum": 63,
+      "mean": 4.2
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "325",
+      "name": "Analysis of Algorithms"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2018"
+    },
+    "aggregate": {
+      "count": 2,
+      "sum": 6,
+      "mean": 3.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "325",
+      "name": "Analysis of Algorithms"
+    },
+    "quarter": {
+      "term": "Fall",
+      "year": "2018"
+    },
+    "aggregate": {
+      "count": 6,
+      "sum": 24,
+      "mean": 4.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "325",
+      "name": "Analysis of Algorithms"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2019"
+    },
+    "aggregate": {
+      "count": 5,
+      "sum": 19,
+      "mean": 3.8
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "325",
+      "name": "Analysis of Algorithms"
+    },
+    "quarter": {
+      "term": "Fall",
+      "year": "2019"
+    },
+    "aggregate": {
+      "count": 6,
+      "sum": 22,
+      "mean": 3.6666666666666665
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "325",
+      "name": "Analysis of Algorithms"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2020"
+    },
+    "aggregate": {
+      "count": 3,
+      "sum": 11,
+      "mean": 3.6666666666666665
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "325",
+      "name": "Analysis of Algorithms"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2020"
+    },
+    "aggregate": {
+      "count": 1,
+      "sum": 4,
+      "mean": 4.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "325",
+      "name": "Analysis of Algorithms"
+    },
+    "quarter": {
+      "term": "Summer",
+      "year": "2020"
+    },
+    "aggregate": {
+      "count": 1,
+      "sum": 2,
+      "mean": 2.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "325",
+      "name": "Analysis of Algorithms"
+    },
+    "quarter": {
+      "term": "Fall",
+      "year": "2020"
+    },
+    "aggregate": {
+      "count": 6,
+      "sum": 22,
+      "mean": 3.6666666666666665
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "325",
+      "name": "Analysis of Algorithms"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2021"
+    },
+    "aggregate": {
+      "count": 3,
+      "sum": 11,
+      "mean": 3.6666666666666665
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "325",
+      "name": "Analysis of Algorithms"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2021"
+    },
+    "aggregate": {
+      "count": 1,
+      "sum": 4,
+      "mean": 4.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "325",
+      "name": "Analysis of Algorithms"
+    },
+    "quarter": {
+      "term": "Summer",
+      "year": "2021"
+    },
+    "aggregate": {
+      "count": 1,
+      "sum": 4,
+      "mean": 4.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "325",
+      "name": "Analysis of Algorithms"
+    },
+    "quarter": {
+      "term": "Fall",
+      "year": "2021"
+    },
+    "aggregate": {
+      "count": 5,
+      "sum": 14,
+      "mean": 2.8
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "325",
+      "name": "Analysis of Algorithms"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2022"
+    },
+    "aggregate": {
+      "count": 9,
+      "sum": 27,
+      "mean": 3.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "325",
+      "name": "Analysis of Algorithms"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2022"
+    },
+    "aggregate": {
+      "count": 3,
+      "sum": 9,
+      "mean": 3.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "340",
+      "name": "Introduction to Databases"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2015"
+    },
+    "aggregate": {
+      "count": 1,
+      "sum": 2,
+      "mean": 2.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "340",
+      "name": "Introduction to Databases"
+    },
+    "quarter": {
+      "term": "Summer",
+      "year": "2015"
+    },
+    "aggregate": {
+      "count": 3,
+      "sum": 5,
+      "mean": 1.6666666666666667
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "340",
+      "name": "Introduction to Databases"
+    },
+    "quarter": {
+      "term": "Fall",
+      "year": "2015"
+    },
+    "aggregate": {
+      "count": 5,
+      "sum": 8,
+      "mean": 1.6
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "340",
+      "name": "Introduction to Databases"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2016"
+    },
+    "aggregate": {
+      "count": 5,
+      "sum": 11,
+      "mean": 2.2
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "340",
+      "name": "Introduction to Databases"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2016"
+    },
+    "aggregate": {
+      "count": 4,
+      "sum": 6,
+      "mean": 1.5
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "340",
+      "name": "Introduction to Databases"
+    },
+    "quarter": {
+      "term": "Summer",
+      "year": "2016"
+    },
+    "aggregate": {
+      "count": 8,
+      "sum": 19,
+      "mean": 2.375
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "340",
+      "name": "Introduction to Databases"
+    },
+    "quarter": {
+      "term": "Fall",
+      "year": "2016"
+    },
+    "aggregate": {
+      "count": 2,
+      "sum": 5,
+      "mean": 2.5
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "340",
+      "name": "Introduction to Databases"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2017"
+    },
+    "aggregate": {
+      "count": 5,
+      "sum": 12,
+      "mean": 2.4
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "340",
+      "name": "Introduction to Databases"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2017"
+    },
+    "aggregate": {
+      "count": 5,
+      "sum": 10,
+      "mean": 2.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "340",
+      "name": "Introduction to Databases"
+    },
+    "quarter": {
+      "term": "Summer",
+      "year": "2017"
+    },
+    "aggregate": {
+      "count": 5,
+      "sum": 10,
+      "mean": 2.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "340",
+      "name": "Introduction to Databases"
+    },
+    "quarter": {
+      "term": "Fall",
+      "year": "2017"
+    },
+    "aggregate": {
+      "count": 3,
+      "sum": 9,
+      "mean": 3.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "340",
+      "name": "Introduction to Databases"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2018"
+    },
+    "aggregate": {
+      "count": 12,
+      "sum": 24,
+      "mean": 2.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "340",
+      "name": "Introduction to Databases"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2018"
+    },
+    "aggregate": {
+      "count": 3,
+      "sum": 7,
+      "mean": 2.3333333333333335
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "340",
+      "name": "Introduction to Databases"
+    },
+    "quarter": {
+      "term": "Fall",
+      "year": "2018"
+    },
+    "aggregate": {
+      "count": 2,
+      "sum": 4,
+      "mean": 2.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "340",
+      "name": "Introduction to Databases"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2019"
+    },
+    "aggregate": {
+      "count": 3,
+      "sum": 8,
+      "mean": 2.6666666666666665
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "340",
+      "name": "Introduction to Databases"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2019"
+    },
+    "aggregate": {
+      "count": 1,
+      "sum": 2,
+      "mean": 2.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "340",
+      "name": "Introduction to Databases"
+    },
+    "quarter": {
+      "term": "Summer",
+      "year": "2019"
+    },
+    "aggregate": {
+      "count": 2,
+      "sum": 2,
+      "mean": 1.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "340",
+      "name": "Introduction to Databases"
+    },
+    "quarter": {
+      "term": "Fall",
+      "year": "2019"
+    },
+    "aggregate": {
+      "count": 3,
+      "sum": 5,
+      "mean": 1.6666666666666667
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "340",
+      "name": "Introduction to Databases"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2020"
+    },
+    "aggregate": {
+      "count": 1,
+      "sum": 3,
+      "mean": 3.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "340",
+      "name": "Introduction to Databases"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2020"
+    },
+    "aggregate": {
+      "count": 1,
+      "sum": 2,
+      "mean": 2.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "340",
+      "name": "Introduction to Databases"
+    },
+    "quarter": {
+      "term": "Summer",
+      "year": "2020"
+    },
+    "aggregate": {
+      "count": 3,
+      "sum": 8,
+      "mean": 2.6666666666666665
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "340",
+      "name": "Introduction to Databases"
+    },
+    "quarter": {
+      "term": "Fall",
+      "year": "2020"
+    },
+    "aggregate": {
+      "count": 3,
+      "sum": 6,
+      "mean": 2.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "340",
+      "name": "Introduction to Databases"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2021"
+    },
+    "aggregate": {
+      "count": 2,
+      "sum": 3,
+      "mean": 1.5
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "340",
+      "name": "Introduction to Databases"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2021"
+    },
+    "aggregate": {
+      "count": 5,
+      "sum": 12,
+      "mean": 2.4
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "340",
+      "name": "Introduction to Databases"
+    },
+    "quarter": {
+      "term": "Summer",
+      "year": "2021"
+    },
+    "aggregate": {
+      "count": 1,
+      "sum": 1,
+      "mean": 1.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "340",
+      "name": "Introduction to Databases"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2022"
+    },
+    "aggregate": {
+      "count": 10,
+      "sum": 23,
+      "mean": 2.3
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "340",
+      "name": "Introduction to Databases"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2022"
+    },
+    "aggregate": {
+      "count": 3,
+      "sum": 7,
+      "mean": 2.3333333333333335
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "340",
+      "name": "Introduction to Databases"
+    },
+    "quarter": {
+      "term": "Fall",
+      "year": "2022"
+    },
+    "aggregate": {
+      "count": 1,
+      "sum": 2,
+      "mean": 2.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "344",
+      "name": "Operating Systems"
+    },
+    "quarter": {
+      "term": "Fall",
+      "year": "2015"
+    },
+    "aggregate": {
+      "count": 1,
+      "sum": 5,
+      "mean": 5.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "344",
+      "name": "Operating Systems"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2016"
+    },
+    "aggregate": {
+      "count": 3,
+      "sum": 11,
+      "mean": 3.6666666666666665
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "344",
+      "name": "Operating Systems"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2016"
+    },
+    "aggregate": {
+      "count": 6,
+      "sum": 20,
+      "mean": 3.3333333333333335
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "344",
+      "name": "Operating Systems"
+    },
+    "quarter": {
+      "term": "Summer",
+      "year": "2016"
+    },
+    "aggregate": {
+      "count": 8,
+      "sum": 25,
+      "mean": 3.125
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "344",
+      "name": "Operating Systems"
+    },
+    "quarter": {
+      "term": "Fall",
+      "year": "2016"
+    },
+    "aggregate": {
+      "count": 2,
+      "sum": 6,
+      "mean": 3.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "344",
+      "name": "Operating Systems"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2017"
+    },
+    "aggregate": {
+      "count": 3,
+      "sum": 9,
+      "mean": 3.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "344",
+      "name": "Operating Systems"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2017"
+    },
+    "aggregate": {
+      "count": 6,
+      "sum": 19,
+      "mean": 3.1666666666666665
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "344",
+      "name": "Operating Systems"
+    },
+    "quarter": {
+      "term": "Summer",
+      "year": "2017"
+    },
+    "aggregate": {
+      "count": 3,
+      "sum": 10,
+      "mean": 3.3333333333333335
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "344",
+      "name": "Operating Systems"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2018"
+    },
+    "aggregate": {
+      "count": 6,
+      "sum": 24,
+      "mean": 4.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "344",
+      "name": "Operating Systems"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2018"
+    },
+    "aggregate": {
+      "count": 3,
+      "sum": 12,
+      "mean": 4.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "344",
+      "name": "Operating Systems"
+    },
+    "quarter": {
+      "term": "Summer",
+      "year": "2018"
+    },
+    "aggregate": {
+      "count": 3,
+      "sum": 10,
+      "mean": 3.3333333333333335
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "344",
+      "name": "Operating Systems"
+    },
+    "quarter": {
+      "term": "Fall",
+      "year": "2018"
+    },
+    "aggregate": {
+      "count": 1,
+      "sum": 3,
+      "mean": 3.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "344",
+      "name": "Operating Systems"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2019"
+    },
+    "aggregate": {
+      "count": 3,
+      "sum": 9,
+      "mean": 3.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "344",
+      "name": "Operating Systems"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2019"
+    },
+    "aggregate": {
+      "count": 4,
+      "sum": 15,
+      "mean": 3.75
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "344",
+      "name": "Operating Systems"
+    },
+    "quarter": {
+      "term": "Fall",
+      "year": "2019"
+    },
+    "aggregate": {
+      "count": 3,
+      "sum": 10,
+      "mean": 3.3333333333333335
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "344",
+      "name": "Operating Systems"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2020"
+    },
+    "aggregate": {
+      "count": 2,
+      "sum": 9,
+      "mean": 4.5
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "344",
+      "name": "Operating Systems"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2020"
+    },
+    "aggregate": {
+      "count": 1,
+      "sum": 5,
+      "mean": 5.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "344",
+      "name": "Operating Systems"
+    },
+    "quarter": {
+      "term": "Summer",
+      "year": "2020"
+    },
+    "aggregate": {
+      "count": 2,
+      "sum": 5,
+      "mean": 2.5
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "344",
+      "name": "Operating Systems"
+    },
+    "quarter": {
+      "term": "Fall",
+      "year": "2020"
+    },
+    "aggregate": {
+      "count": 2,
+      "sum": 6,
+      "mean": 3.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "344",
+      "name": "Operating Systems"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2021"
+    },
+    "aggregate": {
+      "count": 2,
+      "sum": 9,
+      "mean": 4.5
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "344",
+      "name": "Operating Systems"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2021"
+    },
+    "aggregate": {
+      "count": 3,
+      "sum": 12,
+      "mean": 4.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "344",
+      "name": "Operating Systems"
+    },
+    "quarter": {
+      "term": "Summer",
+      "year": "2021"
+    },
+    "aggregate": {
+      "count": 2,
+      "sum": 10,
+      "mean": 5.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "344",
+      "name": "Operating Systems"
+    },
+    "quarter": {
+      "term": "Fall",
+      "year": "2021"
+    },
+    "aggregate": {
+      "count": 2,
+      "sum": 9,
+      "mean": 4.5
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "344",
+      "name": "Operating Systems"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2022"
+    },
+    "aggregate": {
+      "count": 13,
+      "sum": 53,
+      "mean": 4.076923076923077
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "344",
+      "name": "Operating Systems"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2022"
+    },
+    "aggregate": {
+      "count": 4,
+      "sum": 16,
+      "mean": 4.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "344",
+      "name": "Operating Systems"
+    },
+    "quarter": {
+      "term": "Fall",
+      "year": "2022"
+    },
+    "aggregate": {
+      "count": 1,
+      "sum": 4,
+      "mean": 4.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "352",
+      "name": "Introduction to Usability Engineering"
+    },
+    "quarter": {
+      "term": "Summer",
+      "year": "2015"
+    },
+    "aggregate": {
+      "count": 5,
+      "sum": 6,
+      "mean": 1.2
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "352",
+      "name": "Introduction to Usability Engineering"
+    },
+    "quarter": {
+      "term": "Fall",
+      "year": "2015"
+    },
+    "aggregate": {
+      "count": 2,
+      "sum": 6,
+      "mean": 3.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "352",
+      "name": "Introduction to Usability Engineering"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2016"
+    },
+    "aggregate": {
+      "count": 7,
+      "sum": 9,
+      "mean": 1.2857142857142858
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "352",
+      "name": "Introduction to Usability Engineering"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2016"
+    },
+    "aggregate": {
+      "count": 2,
+      "sum": 2,
+      "mean": 1.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "352",
+      "name": "Introduction to Usability Engineering"
+    },
+    "quarter": {
+      "term": "Summer",
+      "year": "2016"
+    },
+    "aggregate": {
+      "count": 6,
+      "sum": 11,
+      "mean": 1.8333333333333333
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "352",
+      "name": "Introduction to Usability Engineering"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2017"
+    },
+    "aggregate": {
+      "count": 3,
+      "sum": 5,
+      "mean": 1.6666666666666667
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "352",
+      "name": "Introduction to Usability Engineering"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2017"
+    },
+    "aggregate": {
+      "count": 3,
+      "sum": 6,
+      "mean": 2.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "352",
+      "name": "Introduction to Usability Engineering"
+    },
+    "quarter": {
+      "term": "Summer",
+      "year": "2017"
+    },
+    "aggregate": {
+      "count": 3,
+      "sum": 4,
+      "mean": 1.3333333333333333
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "352",
+      "name": "Introduction to Usability Engineering"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2018"
+    },
+    "aggregate": {
+      "count": 5,
+      "sum": 12,
+      "mean": 2.4
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "352",
+      "name": "Introduction to Usability Engineering"
+    },
+    "quarter": {
+      "term": "Fall",
+      "year": "2018"
+    },
+    "aggregate": {
+      "count": 4,
+      "sum": 10,
+      "mean": 2.5
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "352",
+      "name": "Introduction to Usability Engineering"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2019"
+    },
+    "aggregate": {
+      "count": 2,
+      "sum": 3,
+      "mean": 1.5
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "352",
+      "name": "Introduction to Usability Engineering"
+    },
+    "quarter": {
+      "term": "Fall",
+      "year": "2019"
+    },
+    "aggregate": {
+      "count": 1,
+      "sum": 1,
+      "mean": 1.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "352",
+      "name": "Introduction to Usability Engineering"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2020"
+    },
+    "aggregate": {
+      "count": 1,
+      "sum": 3,
+      "mean": 3.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "352",
+      "name": "Introduction to Usability Engineering"
+    },
+    "quarter": {
+      "term": "Summer",
+      "year": "2020"
+    },
+    "aggregate": {
+      "count": 1,
+      "sum": 2,
+      "mean": 2.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "352",
+      "name": "Introduction to Usability Engineering"
+    },
+    "quarter": {
+      "term": "Fall",
+      "year": "2020"
+    },
+    "aggregate": {
+      "count": 1,
+      "sum": 1,
+      "mean": 1.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "352",
+      "name": "Introduction to Usability Engineering"
+    },
+    "quarter": {
+      "term": "Summer",
+      "year": "2021"
+    },
+    "aggregate": {
+      "count": 1,
+      "sum": 3,
+      "mean": 3.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "352",
+      "name": "Introduction to Usability Engineering"
+    },
+    "quarter": {
+      "term": "Fall",
+      "year": "2021"
+    },
+    "aggregate": {
+      "count": 1,
+      "sum": 1,
+      "mean": 1.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "352",
+      "name": "Introduction to Usability Engineering"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2022"
+    },
+    "aggregate": {
+      "count": 6,
+      "sum": 10,
+      "mean": 1.6666666666666667
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "361",
+      "name": "Software Engineering I"
+    },
+    "quarter": {
+      "term": "Fall",
+      "year": "2015"
+    },
+    "aggregate": {
+      "count": 2,
+      "sum": 3,
+      "mean": 1.5
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "361",
+      "name": "Software Engineering I"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2016"
+    },
+    "aggregate": {
+      "count": 7,
+      "sum": 13,
+      "mean": 1.8571428571428572
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "361",
+      "name": "Software Engineering I"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2016"
+    },
+    "aggregate": {
+      "count": 8,
+      "sum": 14,
+      "mean": 1.75
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "361",
+      "name": "Software Engineering I"
+    },
+    "quarter": {
+      "term": "Summer",
+      "year": "2016"
+    },
+    "aggregate": {
+      "count": 4,
+      "sum": 5,
+      "mean": 1.25
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "361",
+      "name": "Software Engineering I"
+    },
+    "quarter": {
+      "term": "Fall",
+      "year": "2016"
+    },
+    "aggregate": {
+      "count": 2,
+      "sum": 2,
+      "mean": 1.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "361",
+      "name": "Software Engineering I"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2017"
+    },
+    "aggregate": {
+      "count": 4,
+      "sum": 8,
+      "mean": 2.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "361",
+      "name": "Software Engineering I"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2017"
+    },
+    "aggregate": {
+      "count": 3,
+      "sum": 5,
+      "mean": 1.6666666666666667
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "361",
+      "name": "Software Engineering I"
+    },
+    "quarter": {
+      "term": "Summer",
+      "year": "2017"
+    },
+    "aggregate": {
+      "count": 3,
+      "sum": 7,
+      "mean": 2.3333333333333335
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "361",
+      "name": "Software Engineering I"
+    },
+    "quarter": {
+      "term": "Fall",
+      "year": "2017"
+    },
+    "aggregate": {
+      "count": 1,
+      "sum": 2,
+      "mean": 2.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "361",
+      "name": "Software Engineering I"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2018"
+    },
+    "aggregate": {
+      "count": 12,
+      "sum": 19,
+      "mean": 1.5833333333333333
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "361",
+      "name": "Software Engineering I"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2018"
+    },
+    "aggregate": {
+      "count": 4,
+      "sum": 9,
+      "mean": 2.25
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "361",
+      "name": "Software Engineering I"
+    },
+    "quarter": {
+      "term": "Summer",
+      "year": "2018"
+    },
+    "aggregate": {
+      "count": 5,
+      "sum": 8,
+      "mean": 1.6
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "361",
+      "name": "Software Engineering I"
+    },
+    "quarter": {
+      "term": "Fall",
+      "year": "2018"
+    },
+    "aggregate": {
+      "count": 3,
+      "sum": 9,
+      "mean": 3.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "361",
+      "name": "Software Engineering I"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2019"
+    },
+    "aggregate": {
+      "count": 5,
+      "sum": 8,
+      "mean": 1.6
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "361",
+      "name": "Software Engineering I"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2019"
+    },
+    "aggregate": {
+      "count": 3,
+      "sum": 5,
+      "mean": 1.6666666666666667
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "361",
+      "name": "Software Engineering I"
+    },
+    "quarter": {
+      "term": "Fall",
+      "year": "2019"
+    },
+    "aggregate": {
+      "count": 3,
+      "sum": 8,
+      "mean": 2.6666666666666665
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "361",
+      "name": "Software Engineering I"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2020"
+    },
+    "aggregate": {
+      "count": 1,
+      "sum": 1,
+      "mean": 1.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "361",
+      "name": "Software Engineering I"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2020"
+    },
+    "aggregate": {
+      "count": 2,
+      "sum": 2,
+      "mean": 1.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "361",
+      "name": "Software Engineering I"
+    },
+    "quarter": {
+      "term": "Summer",
+      "year": "2020"
+    },
+    "aggregate": {
+      "count": 1,
+      "sum": 5,
+      "mean": 5.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "361",
+      "name": "Software Engineering I"
+    },
+    "quarter": {
+      "term": "Fall",
+      "year": "2020"
+    },
+    "aggregate": {
+      "count": 1,
+      "sum": 2,
+      "mean": 2.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "361",
+      "name": "Software Engineering I"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2021"
+    },
+    "aggregate": {
+      "count": 2,
+      "sum": 2,
+      "mean": 1.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "361",
+      "name": "Software Engineering I"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2021"
+    },
+    "aggregate": {
+      "count": 2,
+      "sum": 2,
+      "mean": 1.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "361",
+      "name": "Software Engineering I"
+    },
+    "quarter": {
+      "term": "Summer",
+      "year": "2021"
+    },
+    "aggregate": {
+      "count": 1,
+      "sum": 1,
+      "mean": 1.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "361",
+      "name": "Software Engineering I"
+    },
+    "quarter": {
+      "term": "Fall",
+      "year": "2021"
+    },
+    "aggregate": {
+      "count": 4,
+      "sum": 6,
+      "mean": 1.5
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "361",
+      "name": "Software Engineering I"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2022"
+    },
+    "aggregate": {
+      "count": 4,
+      "sum": 4,
+      "mean": 1.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "361",
+      "name": "Software Engineering I"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2022"
+    },
+    "aggregate": {
+      "count": 3,
+      "sum": 3,
+      "mean": 1.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "362",
+      "name": "Software Engineering II"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2016"
+    },
+    "aggregate": {
+      "count": 2,
+      "sum": 5,
+      "mean": 2.5
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "362",
+      "name": "Software Engineering II"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2016"
+    },
+    "aggregate": {
+      "count": 8,
+      "sum": 14,
+      "mean": 1.75
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "362",
+      "name": "Software Engineering II"
+    },
+    "quarter": {
+      "term": "Summer",
+      "year": "2016"
+    },
+    "aggregate": {
+      "count": 2,
+      "sum": 2,
+      "mean": 1.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "362",
+      "name": "Software Engineering II"
+    },
+    "quarter": {
+      "term": "Fall",
+      "year": "2016"
+    },
+    "aggregate": {
+      "count": 1,
+      "sum": 1,
+      "mean": 1.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "362",
+      "name": "Software Engineering II"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2017"
+    },
+    "aggregate": {
+      "count": 4,
+      "sum": 8,
+      "mean": 2.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "362",
+      "name": "Software Engineering II"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2017"
+    },
+    "aggregate": {
+      "count": 2,
+      "sum": 5,
+      "mean": 2.5
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "362",
+      "name": "Software Engineering II"
+    },
+    "quarter": {
+      "term": "Summer",
+      "year": "2017"
+    },
+    "aggregate": {
+      "count": 3,
+      "sum": 4,
+      "mean": 1.3333333333333333
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "362",
+      "name": "Software Engineering II"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2018"
+    },
+    "aggregate": {
+      "count": 6,
+      "sum": 8,
+      "mean": 1.3333333333333333
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "362",
+      "name": "Software Engineering II"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2018"
+    },
+    "aggregate": {
+      "count": 1,
+      "sum": 4,
+      "mean": 4.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "362",
+      "name": "Software Engineering II"
+    },
+    "quarter": {
+      "term": "Summer",
+      "year": "2018"
+    },
+    "aggregate": {
+      "count": 2,
+      "sum": 4,
+      "mean": 2.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "362",
+      "name": "Software Engineering II"
+    },
+    "quarter": {
+      "term": "Fall",
+      "year": "2018"
+    },
+    "aggregate": {
+      "count": 5,
+      "sum": 8,
+      "mean": 1.6
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "362",
+      "name": "Software Engineering II"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2019"
+    },
+    "aggregate": {
+      "count": 1,
+      "sum": 1,
+      "mean": 1.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "362",
+      "name": "Software Engineering II"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2019"
+    },
+    "aggregate": {
+      "count": 2,
+      "sum": 3,
+      "mean": 1.5
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "362",
+      "name": "Software Engineering II"
+    },
+    "quarter": {
+      "term": "Fall",
+      "year": "2019"
+    },
+    "aggregate": {
+      "count": 4,
+      "sum": 8,
+      "mean": 2.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "362",
+      "name": "Software Engineering II"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2020"
+    },
+    "aggregate": {
+      "count": 3,
+      "sum": 4,
+      "mean": 1.3333333333333333
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "362",
+      "name": "Software Engineering II"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2020"
+    },
+    "aggregate": {
+      "count": 3,
+      "sum": 5,
+      "mean": 1.6666666666666667
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "362",
+      "name": "Software Engineering II"
+    },
+    "quarter": {
+      "term": "Fall",
+      "year": "2020"
+    },
+    "aggregate": {
+      "count": 2,
+      "sum": 4,
+      "mean": 2.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "362",
+      "name": "Software Engineering II"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2021"
+    },
+    "aggregate": {
+      "count": 1,
+      "sum": 2,
+      "mean": 2.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "362",
+      "name": "Software Engineering II"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2021"
+    },
+    "aggregate": {
+      "count": 4,
+      "sum": 6,
+      "mean": 1.5
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "362",
+      "name": "Software Engineering II"
+    },
+    "quarter": {
+      "term": "Fall",
+      "year": "2021"
+    },
+    "aggregate": {
+      "count": 3,
+      "sum": 5,
+      "mean": 1.6666666666666667
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "362",
+      "name": "Software Engineering II"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2022"
+    },
+    "aggregate": {
+      "count": 7,
+      "sum": 13,
+      "mean": 1.8571428571428572
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "362",
+      "name": "Software Engineering II"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2022"
+    },
+    "aggregate": {
+      "count": 2,
+      "sum": 4,
+      "mean": 2.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "372",
+      "name": "Intro to Computer Networks"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2016"
+    },
+    "aggregate": {
+      "count": 2,
+      "sum": 7,
+      "mean": 3.5
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "372",
+      "name": "Intro to Computer Networks"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2016"
+    },
+    "aggregate": {
+      "count": 11,
+      "sum": 36,
+      "mean": 3.272727272727273
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "372",
+      "name": "Intro to Computer Networks"
+    },
+    "quarter": {
+      "term": "Summer",
+      "year": "2016"
+    },
+    "aggregate": {
+      "count": 5,
+      "sum": 15,
+      "mean": 3.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "372",
+      "name": "Intro to Computer Networks"
+    },
+    "quarter": {
+      "term": "Fall",
+      "year": "2016"
+    },
+    "aggregate": {
+      "count": 2,
+      "sum": 5,
+      "mean": 2.5
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "372",
+      "name": "Intro to Computer Networks"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2017"
+    },
+    "aggregate": {
+      "count": 3,
+      "sum": 8,
+      "mean": 2.6666666666666665
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "372",
+      "name": "Intro to Computer Networks"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2017"
+    },
+    "aggregate": {
+      "count": 3,
+      "sum": 10,
+      "mean": 3.3333333333333335
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "372",
+      "name": "Intro to Computer Networks"
+    },
+    "quarter": {
+      "term": "Summer",
+      "year": "2017"
+    },
+    "aggregate": {
+      "count": 1,
+      "sum": 4,
+      "mean": 4.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "372",
+      "name": "Intro to Computer Networks"
+    },
+    "quarter": {
+      "term": "Fall",
+      "year": "2017"
+    },
+    "aggregate": {
+      "count": 2,
+      "sum": 3,
+      "mean": 1.5
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "372",
+      "name": "Intro to Computer Networks"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2018"
+    },
+    "aggregate": {
+      "count": 8,
+      "sum": 25,
+      "mean": 3.125
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "372",
+      "name": "Intro to Computer Networks"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2018"
+    },
+    "aggregate": {
+      "count": 2,
+      "sum": 7,
+      "mean": 3.5
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "372",
+      "name": "Intro to Computer Networks"
+    },
+    "quarter": {
+      "term": "Fall",
+      "year": "2018"
+    },
+    "aggregate": {
+      "count": 4,
+      "sum": 10,
+      "mean": 2.5
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "372",
+      "name": "Intro to Computer Networks"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2019"
+    },
+    "aggregate": {
+      "count": 1,
+      "sum": 4,
+      "mean": 4.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "372",
+      "name": "Intro to Computer Networks"
+    },
+    "quarter": {
+      "term": "Fall",
+      "year": "2019"
+    },
+    "aggregate": {
+      "count": 2,
+      "sum": 6,
+      "mean": 3.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "372",
+      "name": "Intro to Computer Networks"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2020"
+    },
+    "aggregate": {
+      "count": 1,
+      "sum": 4,
+      "mean": 4.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "372",
+      "name": "Intro to Computer Networks"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2020"
+    },
+    "aggregate": {
+      "count": 3,
+      "sum": 10,
+      "mean": 3.3333333333333335
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "372",
+      "name": "Intro to Computer Networks"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2021"
+    },
+    "aggregate": {
+      "count": 1,
+      "sum": 3,
+      "mean": 3.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "372",
+      "name": "Intro to Computer Networks"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2021"
+    },
+    "aggregate": {
+      "count": 4,
+      "sum": 11,
+      "mean": 2.75
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "372",
+      "name": "Intro to Computer Networks"
+    },
+    "quarter": {
+      "term": "Summer",
+      "year": "2021"
+    },
+    "aggregate": {
+      "count": 2,
+      "sum": 6,
+      "mean": 3.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "372",
+      "name": "Intro to Computer Networks"
+    },
+    "quarter": {
+      "term": "Fall",
+      "year": "2021"
+    },
+    "aggregate": {
+      "count": 5,
+      "sum": 11,
+      "mean": 2.2
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "372",
+      "name": "Intro to Computer Networks"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2022"
+    },
+    "aggregate": {
+      "count": 7,
+      "sum": 16,
+      "mean": 2.2857142857142856
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "372",
+      "name": "Intro to Computer Networks"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2022"
+    },
+    "aggregate": {
+      "count": 3,
+      "sum": 10,
+      "mean": 3.3333333333333335
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "373",
+      "name": "Defense Against the Dark Arts"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2017"
+    },
+    "aggregate": {
+      "count": 2,
+      "sum": 4,
+      "mean": 2.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "373",
+      "name": "Defense Against the Dark Arts"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2018"
+    },
+    "aggregate": {
+      "count": 4,
+      "sum": 8,
+      "mean": 2.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "373",
+      "name": "Defense Against the Dark Arts"
+    },
+    "quarter": {
+      "term": "Summer",
+      "year": "2018"
+    },
+    "aggregate": {
+      "count": 2,
+      "sum": 4,
+      "mean": 2.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "373",
+      "name": "Defense Against the Dark Arts"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2019"
+    },
+    "aggregate": {
+      "count": 3,
+      "sum": 5,
+      "mean": 1.6666666666666667
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "373",
+      "name": "Defense Against the Dark Arts"
+    },
+    "quarter": {
+      "term": "Fall",
+      "year": "2019"
+    },
+    "aggregate": {
+      "count": 3,
+      "sum": 3,
+      "mean": 1.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "373",
+      "name": "Defense Against the Dark Arts"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2020"
+    },
+    "aggregate": {
+      "count": 1,
+      "sum": 3,
+      "mean": 3.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "373",
+      "name": "Defense Against the Dark Arts"
+    },
+    "quarter": {
+      "term": "Fall",
+      "year": "2020"
+    },
+    "aggregate": {
+      "count": 1,
+      "sum": 4,
+      "mean": 4.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "419",
+      "name": "Software Projects"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2016"
+    },
+    "aggregate": {
+      "count": 1,
+      "sum": 3,
+      "mean": 3.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "419",
+      "name": "Software Projects"
+    },
+    "quarter": {
+      "term": "Summer",
+      "year": "2016"
+    },
+    "aggregate": {
+      "count": 4,
+      "sum": 13,
+      "mean": 3.25
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "419",
+      "name": "Capstone"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2022"
+    },
+    "aggregate": {
+      "count": 2,
+      "sum": 2,
+      "mean": 1.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "419/467",
+      "name": "Software Projects"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2017"
+    },
+    "aggregate": {
+      "count": 5,
+      "sum": 11,
+      "mean": 2.2
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "419/467",
+      "name": "Software Projects"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2017"
+    },
+    "aggregate": {
+      "count": 1,
+      "sum": 3,
+      "mean": 3.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "419/467",
+      "name": "Software Projects"
+    },
+    "quarter": {
+      "term": "Summer",
+      "year": "2017"
+    },
+    "aggregate": {
+      "count": 3,
+      "sum": 8,
+      "mean": 2.6666666666666665
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "419/467",
+      "name": "Software Projects"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2018"
+    },
+    "aggregate": {
+      "count": 1,
+      "sum": 1,
+      "mean": 1.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "419/467",
+      "name": "Software Projects"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2018"
+    },
+    "aggregate": {
+      "count": 1,
+      "sum": 3,
+      "mean": 3.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "419/467",
+      "name": "Software Projects"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2019"
+    },
+    "aggregate": {
+      "count": 2,
+      "sum": 5,
+      "mean": 2.5
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "419/467",
+      "name": "Software Projects"
+    },
+    "quarter": {
+      "term": "Fall",
+      "year": "2019"
+    },
+    "aggregate": {
+      "count": 2,
+      "sum": 3,
+      "mean": 1.5
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "419/467",
+      "name": "Software Projects"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2020"
+    },
+    "aggregate": {
+      "count": 2,
+      "sum": 2,
+      "mean": 1.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "419/467",
+      "name": "Software Projects"
+    },
+    "quarter": {
+      "term": "Fall",
+      "year": "2020"
+    },
+    "aggregate": {
+      "count": 1,
+      "sum": 2,
+      "mean": 2.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "419/467",
+      "name": "Software Projects"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2021"
+    },
+    "aggregate": {
+      "count": 1,
+      "sum": 1,
+      "mean": 1.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "419/467",
+      "name": "Software Projects"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2021"
+    },
+    "aggregate": {
+      "count": 1,
+      "sum": 1,
+      "mean": 1.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "419/467",
+      "name": "Software Projects"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2022"
+    },
+    "aggregate": {
+      "count": 1,
+      "sum": 2,
+      "mean": 2.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "427",
+      "name": "Cryptography"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2022"
+    },
+    "aggregate": {
+      "count": 3,
+      "sum": 13,
+      "mean": 4.333333333333333
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "464",
+      "name": "Open Source Software"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2016"
+    },
+    "aggregate": {
+      "count": 1,
+      "sum": 2,
+      "mean": 2.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "464",
+      "name": "Open Source Software"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2017"
+    },
+    "aggregate": {
+      "count": 6,
+      "sum": 7,
+      "mean": 1.1666666666666667
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "464",
+      "name": "Open Source Software"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2017"
+    },
+    "aggregate": {
+      "count": 2,
+      "sum": 2,
+      "mean": 1.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "464",
+      "name": "Open Source Software"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2018"
+    },
+    "aggregate": {
+      "count": 2,
+      "sum": 2,
+      "mean": 1.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "464",
+      "name": "Open Source Software"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2019"
+    },
+    "aggregate": {
+      "count": 3,
+      "sum": 3,
+      "mean": 1.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "464",
+      "name": "Open Source Software"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2020"
+    },
+    "aggregate": {
+      "count": 2,
+      "sum": 2,
+      "mean": 1.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "464",
+      "name": "Open Source Software"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2021"
+    },
+    "aggregate": {
+      "count": 1,
+      "sum": 1,
+      "mean": 1.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "464",
+      "name": "Open Source Software"
+    },
+    "quarter": {
+      "term": "Fall",
+      "year": "2021"
+    },
+    "aggregate": {
+      "count": 1,
+      "sum": 1,
+      "mean": 1.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "464",
+      "name": "Open Source Software"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2022"
+    },
+    "aggregate": {
+      "count": 1,
+      "sum": 1,
+      "mean": 1.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "475",
+      "name": "Intro to Parallel Programming"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2017"
+    },
+    "aggregate": {
+      "count": 3,
+      "sum": 6,
+      "mean": 2.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "475",
+      "name": "Intro to Parallel Programming"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2018"
+    },
+    "aggregate": {
+      "count": 5,
+      "sum": 12,
+      "mean": 2.4
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "475",
+      "name": "Intro to Parallel Programming"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2019"
+    },
+    "aggregate": {
+      "count": 3,
+      "sum": 6,
+      "mean": 2.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "475",
+      "name": "Intro to Parallel Programming"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2020"
+    },
+    "aggregate": {
+      "count": 4,
+      "sum": 7,
+      "mean": 1.75
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "475",
+      "name": "Intro to Parallel Programming"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2021"
+    },
+    "aggregate": {
+      "count": 8,
+      "sum": 11,
+      "mean": 1.375
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "475",
+      "name": "Intro to Parallel Programming"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2022"
+    },
+    "aggregate": {
+      "count": 4,
+      "sum": 8,
+      "mean": 2.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "475",
+      "name": "Intro to Parallel Programming"
+    },
+    "quarter": {
+      "term": "Fall",
+      "year": "2022"
+    },
+    "aggregate": {
+      "count": 1,
+      "sum": 2,
+      "mean": 2.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "492",
+      "name": "Mobile Software Development"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2021"
+    },
+    "aggregate": {
+      "count": 1,
+      "sum": 5,
+      "mean": 5.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "492",
+      "name": "Mobile Software Development"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2022"
+    },
+    "aggregate": {
+      "count": 3,
+      "sum": 10,
+      "mean": 3.3333333333333335
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "493",
+      "name": "Cloud Application Development"
+    },
+    "quarter": {
+      "term": "Fall",
+      "year": "2019"
+    },
+    "aggregate": {
+      "count": 2,
+      "sum": 6,
+      "mean": 3.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "493",
+      "name": "Cloud Application Development"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2020"
+    },
+    "aggregate": {
+      "count": 1,
+      "sum": 1,
+      "mean": 1.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "493",
+      "name": "Cloud Application Development"
+    },
+    "quarter": {
+      "term": "Fall",
+      "year": "2020"
+    },
+    "aggregate": {
+      "count": 1,
+      "sum": 4,
+      "mean": 4.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "493",
+      "name": "Cloud Application Development"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2021"
+    },
+    "aggregate": {
+      "count": 2,
+      "sum": 5,
+      "mean": 2.5
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "493",
+      "name": "Cloud Application Development"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2022"
+    },
+    "aggregate": {
+      "count": 1,
+      "sum": 3,
+      "mean": 3.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "496",
+      "name": "Mobile and Cloud Software Development"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2016"
+    },
+    "aggregate": {
+      "count": 1,
+      "sum": 4,
+      "mean": 4.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "496",
+      "name": "Mobile and Cloud Software Development"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2016"
+    },
+    "aggregate": {
+      "count": 3,
+      "sum": 12,
+      "mean": 4.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "496",
+      "name": "Mobile and Cloud Software Development"
+    },
+    "quarter": {
+      "term": "Summer",
+      "year": "2016"
+    },
+    "aggregate": {
+      "count": 9,
+      "sum": 31,
+      "mean": 3.4444444444444446
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "496",
+      "name": "Mobile and Cloud Software Development"
+    },
+    "quarter": {
+      "term": "Fall",
+      "year": "2016"
+    },
+    "aggregate": {
+      "count": 2,
+      "sum": 5,
+      "mean": 2.5
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "496",
+      "name": "Mobile and Cloud Software Development"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2017"
+    },
+    "aggregate": {
+      "count": 1,
+      "sum": 2,
+      "mean": 2.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "496",
+      "name": "Mobile and Cloud Software Development"
+    },
+    "quarter": {
+      "term": "Spring",
+      "year": "2017"
+    },
+    "aggregate": {
+      "count": 2,
+      "sum": 5,
+      "mean": 2.5
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "496",
+      "name": "Mobile and Cloud Software Development"
+    },
+    "quarter": {
+      "term": "Summer",
+      "year": "2017"
+    },
+    "aggregate": {
+      "count": 2,
+      "sum": 6,
+      "mean": 3.0
+    }
+  },
+  {
+    "course": {
+      "subject": "CS",
+      "id": "496",
+      "name": "Mobile and Cloud Software Development"
+    },
+    "quarter": {
+      "term": "Winter",
+      "year": "2018"
+    },
+    "aggregate": {
+      "count": 1,
+      "sum": 2,
+      "mean": 2.0
+    }
+  }
+]

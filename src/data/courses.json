@@ -1,0 +1,132 @@
+[
+  {
+    "subject": "CS",
+    "id": "161",
+    "name": "Intro to Computer Science I"
+  },
+  {
+    "subject": "CS",
+    "id": "162",
+    "name": "Intro to Computer Science II"
+  },
+  {
+    "subject": "CS",
+    "id": "165",
+    "name": "Intro to Computer Science (Accelerated)"
+  },
+  {
+    "subject": "CS",
+    "id": "199",
+    "name": "Companion Course"
+  },
+  {
+    "subject": "CS",
+    "id": "225",
+    "name": "Discrete Structures in Computer Science"
+  },
+  {
+    "subject": "MTH",
+    "id": "231",
+    "name": "Elements of Discrete Mathematics"
+  },
+  {
+    "subject": "CS",
+    "id": "261",
+    "name": "Data Structures"
+  },
+  {
+    "subject": "CS",
+    "id": "271",
+    "name": "Computer Architecture & Assembly Language"
+  },
+  {
+    "subject": "CS",
+    "id": "290",
+    "name": "Web Development"
+  },
+  {
+    "subject": "CS",
+    "id": "325",
+    "name": "Analysis of Algorithms"
+  },
+  {
+    "subject": "CS",
+    "id": "340",
+    "name": "Introduction to Databases"
+  },
+  {
+    "subject": "CS",
+    "id": "344",
+    "name": "Operating Systems"
+  },
+  {
+    "subject": "CS",
+    "id": "352",
+    "name": "Introduction to Usability Engineering"
+  },
+  {
+    "subject": "CS",
+    "id": "361",
+    "name": "Software Engineering I"
+  },
+  {
+    "subject": "CS",
+    "id": "362",
+    "name": "Software Engineering II"
+  },
+  {
+    "subject": "CS",
+    "id": "372",
+    "name": "Intro to Computer Networks"
+  },
+  {
+    "subject": "CS",
+    "id": "373",
+    "name": "Defense Against the Dark Arts"
+  },
+  {
+    "subject": "CS",
+    "id": "419",
+    "name": "Capstone"
+  },
+  {
+    "subject": "CS",
+    "id": "419",
+    "name": "Software Projects"
+  },
+  {
+    "subject": "CS",
+    "id": "419/467",
+    "name": "Software Projects"
+  },
+  {
+    "subject": "CS",
+    "id": "427",
+    "name": "Cryptography"
+  },
+  {
+    "subject": "CS",
+    "id": "464",
+    "name": "Open Source Software"
+  },
+  {
+    "subject": "CS",
+    "id": "475",
+    "name": "Intro to Parallel Programming"
+  },
+  {
+    "subject": "CS",
+    "id": "492",
+    "name": "Mobile Software Development"
+  },
+  {
+    "subject": "CS",
+    "id": "493",
+    "name": "Cloud Application Development"
+  },
+  {
+    "subject": "CS",
+    "id": "496",
+    "name": "Mobile and Cloud Software Development"
+  }
+]

@@ -1,0 +1,34 @@
+label {
+    font-size: 24px;
+    margin: 0px 20px 0px 20px;
+}
+
+.selection {
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+    text-align: center;
+}
+
+input {
+    margin-left: 30px;
+}
+
+#searchbar {
+    width: 230px;
+    margin-right: 10px;
+}
+
+.dropdown {
+    margin-right: 20px;
+}
+
+#course {
+    margin: 0 auto;
+    padding-top: 5px;
+}
+
+#searchbar {
+    margin-left: 20px;
+}
