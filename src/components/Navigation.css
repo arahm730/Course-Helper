@@ -4,7 +4,7 @@
 }
 
 #past-five-link {
-    padding-left: 300px;
+    padding-left: 175px;
 }
 #past-one-link {
     padding-left: 50px;
@@ -13,3 +13,6 @@
     padding-left: 50px;
 }
 
+#sorted-courses {
+    padding-left: 50px;
+}

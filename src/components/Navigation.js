@@ -1,5 +1,4 @@
 import React from "react";
-import { Link } from "react-router-dom";
 import {Nav, Navbar, Container } from "react-bootstrap";
 import "./Navigation.css";
 
@@ -17,6 +16,9 @@ const Navigation = () => {
             </Nav.Link>
             <Nav.Link id="plan-link" href="/planner">
               Planner
+            </Nav.Link>
+            <Nav.Link id="sorted-courses" href="/sorted-courses">
+              Sorted Courses by Difficulty
             </Nav.Link>
           </Nav>
         </Container>

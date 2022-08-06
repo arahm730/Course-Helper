@@ -1,53 +1,48 @@
-import React, { useState, useRef } from "react";
+import React, { useState } from "react";
 import CourseDropDown from "../components/CourseDropDown";
 import Navigation from "../components/Navigation";
-import PlannerTable from "../components/PlannerTable";
 import "./PlannerPage.css";
-import data from "../data/course_year_aggregate.json";
-
 import "bootstrap/dist/css/bootstrap.css";
 import Tooltip from "react-bootstrap/Tooltip";
 import Button from "react-bootstrap/Button";
 import OverlayTrigger from "react-bootstrap/OverlayTrigger";
 import AlertBox from "../components/AlertBox";
+import Tables from "../components/Tables";
 
-
-const Planner = () => {
+const Planner = ({ courseFiveYearData, courseData }) => {
+  const data = courseFiveYearData;
   const [displayedSemester, setDisplayedSemester] = useState("Fall");
   const handleSemesterChange = (event) => {
-    console.log(event.target.value);
     setDisplayedSemester(event.target.value);
   };
-
   const [clickedCourse, setClickedCourse] = useState("161");
+  const fiveYearData = data
+    .filter(
+      (entry) => 2018 <= parseInt(entry.year) && parseInt(entry.year) <= 2022
+    )
+    .sort((a, b) => a.year - b.year || a.course.id - b.course.id);
 
-  const fiveYearData = data.filter(
-    (entry) => 2018 <= parseInt(entry.year) && parseInt(entry.year) <= 2022
-  );
   const difficulties = fiveYearData
     .filter((element) => element.course.id === clickedCourse)
     .map((obj) => parseFloat(obj.aggregate.mean));
+
+  const average = difficulties.reduce((a, b) => a + b) / difficulties.length.toFixed(2);
 
   const [array, setArray] = useState([]);
   const [fallArray, setFallArray] = useState([]);
   const [winterArray, setWinterArray] = useState([]);
   const [springArray, setSpringArray] = useState([]);
   const [summerArray, setSummerArray] = useState([]);
-  
+  const [lastAddedArray, setLastAddedArray] = useState([]);
 
-  const [lastAddedArray, setLastAddedArray] = useState([])
 
   const handleAddClick = () => {
     let entry = {
       semester: displayedSemester,
       course: clickedCourse,
-      difficulty: difficulties[0],
+      difficulty: average,
     };
-
-    let specificEntry = {
-      course: clickedCourse,
-      difficulty: difficulties[0],
-    };
+    let specificEntry = { course: clickedCourse, difficulty: average };
 
     setArray((array) => [...array, entry]);
     if (displayedSemester === "Fall") {
@@ -69,23 +64,17 @@ const Planner = () => {
     let lastAddition = array.pop();
     if (lastAddition === undefined) return;
     if (lastAddition.semester === "Fall") {
-      setFallArray((fallArray) => [
-        ...fallArray.slice(0, fallArray.length - 1),
-      ]);
+      setFallArray((fallArray) => [...fallArray.slice(0, fallArray.length - 1),]);
     } else if (lastAddition.semester === "Winter") {
-      setWinterArray((winterArray) => [
-        ...winterArray.slice(0, winterArray.length - 1),
-      ]);
+      setWinterArray((winterArray) => [...winterArray.slice(0, winterArray.length - 1),]);
     } else if (lastAddition.semester === "Spring") {
-      setSpringArray((springArray) => [
-        ...springArray.slice(0, springArray.length - 1),
-      ]);
+      setSpringArray((springArray) => [...springArray.slice(0, springArray.length - 1),]);
     } else if (lastAddition.semester === "Summer") {
-      setSummerArray((summerArray) => [
-        ...summerArray.slice(0, summerArray.length - 1),
-      ]);
+      setSummerArray((summerArray) => [...summerArray.slice(0, summerArray.length - 1),]);
     }
   };
+
+  const tablesData = [fallArray, winterArray, springArray, summerArray]
 
   return (
     <div>
@@ -103,30 +92,16 @@ const Planner = () => {
           </select>
         </div>
         <div className="child-div">
-          <CourseDropDown setClickedCourse={setClickedCourse} />
+          <CourseDropDown setClickedCourse={setClickedCourse} courseData={courseData}/>
         </div>
-        <Button
-          variant="success"
-          id="add-button"
-          type="button"
-          onClick={handleAddClick}
-        >
+        <Button variant="success" id="add-button" type="button" onClick={handleAddClick}>
           Add
         </Button>
-        <OverlayTrigger
-          delay={{ hide: 450, show: 300 }}
-          overlay={(props) => (
+        <OverlayTrigger delay={{ hide: 450, show: 300 }} overlay={(props) => (
             <Tooltip {...props}>Added the wrong class? Just undo!</Tooltip>
-          )}
-          placement="top"
-        >
-          <Button
-            variant="danger"
-            id="undo-button"
-            type="button"
-            onClick={handleUndoClick}
-          >
-            Undo
+          )} placement="top">
+          <Button variant="danger" id="undo-button" type="button" onClick={handleUndoClick}> 
+          Undo 
           </Button>
         </OverlayTrigger>
       </div>
@@ -135,21 +110,7 @@ const Planner = () => {
           <AlertBox lastAddedArray={lastAddedArray} />
         </div>
       )}
-
-      <div className="tables">
-        <div className="semester-table">
-          <h2>Fall</h2> <PlannerTable array={fallArray} />
-        </div>
-        <div className="semester-table">
-          <h2>Winter</h2> <PlannerTable array={winterArray} />
-        </div>
-        <div className="semester-table">
-          <h2>Spring</h2> <PlannerTable array={springArray} />
-        </div>
-        <div className="semester-table">
-          <h2>Summer</h2> <PlannerTable array={summerArray} />
-        </div>
-      </div>
+      <Tables tablesData={tablesData}/>
     </div>
   );
 };
