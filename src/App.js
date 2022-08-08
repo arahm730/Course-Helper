@@ -9,10 +9,10 @@ import Loading from "./components/Loading";
 import SortedCoursesPage from "./pages/SortedCoursesPage";
 
 const api_url1 = "http://127.0.0.1:5000/courses";
-const api_url2 = "http://127.0.0.1:5000//course-year-aggregates";
-const api_url3 = "http://127.0.0.1:5000//course-quarter-aggregates";
+const api_url2 = "http://127.0.0.1:5000/course-year-aggregates";
+const api_url3 = "http://127.0.0.1:5000/course-quarter-aggregates";
 
-function App() {
+const App = () => {
   const [courseData, setCourseData] = useState("");
   const [courseFiveYearData, setcourseFiveYearData] = useState("");
   const [courseOneYearData, setCourseOneYearData] = useState("");
@@ -40,7 +40,8 @@ function App() {
       <Router>
         <Routes>
           <Route
-            path="/" exact
+            path="/"
+            exact
             element={
               <FiveYearDifficultiesPage
                 courseFiveYearData={courseFiveYearData}
@@ -49,7 +50,8 @@ function App() {
             }
           ></Route>
           <Route
-            path="/one-year" exact
+            path="/one-year"
+            exact
             element={
               <OneYearDifficultiesPage
                 courseOneYearData={courseOneYearData}

@@ -1,12 +1,12 @@
-import React from 'react'
+import React from "react";
 
-const CourseDifficultyEntry = ({name, value}) => {
+const CourseDifficultyEntry = ({ name, value }) => {
   return (
     <tr>
       <td>{name}</td>
       <td>{value}</td>
     </tr>
   );
-}
+};
 
-export default CourseDifficultyEntry
+export default CourseDifficultyEntry;

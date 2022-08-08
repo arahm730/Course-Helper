@@ -1,6 +1,6 @@
-import React from 'react'
-import PlannerEntry from './PlannerEntry';
-import "./PlannerTable.css"
+import React from "react";
+import PlannerEntry from "./PlannerEntry";
+import "./PlannerTable.css";
 
 const PlannerTable = ({ array }) => {
   return (

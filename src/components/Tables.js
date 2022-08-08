@@ -1,7 +1,7 @@
-import React from 'react'
-import PlannerTable from './PlannerTable';
+import React from "react";
+import PlannerTable from "./PlannerTable";
 
-const Tables = ({tablesData}) => {
+const Tables = ({ tablesData }) => {
   return (
     <div className="tables">
       <div className="semester-table">
@@ -18,6 +18,6 @@ const Tables = ({tablesData}) => {
       </div>
     </div>
   );
-}
+};
 
-export default Tables
+export default Tables;
